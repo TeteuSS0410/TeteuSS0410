@@ -6,7 +6,7 @@
 Hello! My name is Matheus, and technology has been part of my story since the very beginning. Having completed my technical course and currently Incoming IT Management student (Enrollment: 2026 | Expected Graduation: 2028), I am ready and excited to start my professional journey. I am a fan of music, sports, and strategy. I am seeking an opportunity where I can exchange knowledge, grow professionally, and develop technologies with purpose and social impact. My goal is to contribute effectively to the team while aligning with the company's objectives and results.
 Thank you for your time
 
-## Formação Acadêmica
+## Academic Training
 * **Incoming IT Management student** – Uninove  (Enrollment: 2026 | Expected Graduation: 2028).
 * **Technology Iechnical course** – Colégio Seta (finished dec/2025).
 * **Elementary Education** – Colégio Padre Anchieta (Finished dec/2022).
