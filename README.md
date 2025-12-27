@@ -1,21 +1,26 @@
-## 👋 Hi, I'm Gustavo
+## 👋 Hi, I'm Matheus
 
-Engineering Leader with strong background in backend systems, architecture and team development.
-Focused on building scalable solutions while empowering people and fostering ownership.
+Hello! My name is Matheus 
+
+I completed my technical course and I'm currently Incoming IT Management student
+
+ I am a big fan of music, sports, and strategy
+
+
 
 ### 🚀 What I do
-- Technical leadership and system design
-- Backend development (Java, Spring, APIs)
-- Team mentoring and delivery excellence
-- Product-oriented engineering mindset
+- I'm IT Management student
+- Web programmer
+- Backend development (Java, Javascript, Python)
+- Frontend (bootstrap, Css)
+- Cybersecurity
+- SQL
 
 ### 🧭 Currently
-- Tech Lead / Engineering Manager
-- Exploring architecture, performance and security
-- Sharing knowledge and building meaningful products
+- I am seeking an opportunity where I can exchange knowledge, grow professionally, and develop technologies with purpose and social impact
 
 ### 📫 Let's connect
 - 🇧🇷 [Profile_PT](./Profile_PT.md)  
-- US [Profile_US](./Profile_US.md)
+- 🇺🇸 [Profile_US](./Profile_US.md)
 
-🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-souza-68b34335/)
+🔗 [LinkedIn](https://www.linkedin.com/in/matheus-silva-231656304/)
