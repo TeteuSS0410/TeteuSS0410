@@ -2,44 +2,50 @@
 **Osasco, São Paulo, Brasil** **E-mail:** souza.matheus2007z@gmail.com  
 **LinkedIn:** [linkedin.com/in/matheus-silva-de-souza-231656304](https://www.linkedin.com/in/matheus-silva-de-souza-231656304)
 
-## Sobre Mim
-Olá! Meu nome é Matheus e a tecnologia faz parte da minha história desde o início. Com o curso técnico concluído e a faculdade de Gestão de TI prevista para 2026, estou pronto para iniciar minha jornada no mercado. Sou fã de música, esportes e estratégia, e busco uma oportunidade onde eu possa trocar conhecimentos, crescer profissionalmente e criar tecnologias com propósito e impacto social.
+## About Me
+Hello! My name is Matheus, and technology has been part of my story since the very beginning. Having completed my technical course and currently Incoming IT Management student (Enrollment: 2026 | Expected Graduation: 2028), I am ready and excited to start my professional journey. I am a fan of music, sports, and strategy. I am seeking an opportunity where I can exchange knowledge, grow professionally, and develop technologies with purpose and social impact. My goal is to contribute effectively to the team while aligning with the company's objectives and results.
+Thank you for your time
 
 ## Formação Acadêmica
-* **Bacharelado em Gestão de Tecnologia da Informação** – Uninove (Início previsto: Fevereiro/2026).
-* **Ensino Médio Técnico em Informática** – Colégio Seta (Concluído em Dezembro/2025).
-* **Ensino Fundamental** – Colégio Padre Anchieta (Concluído em Dezembro/2022).
+* **Incoming IT Management student** – Uninove  (Enrollment: 2026 | Expected Graduation: 2028).
+* **Technology Iechnical course** – Colégio Seta (finished dec/2025).
+* **Elementary Education** – Colégio Padre Anchieta (Finished dec/2022).
 
-## Competências Interpessoais (Soft Skills)
-* Comunicação Assertiva.
-* Trabalho em Equipe.
-* Proatividade e Aprendizado Rápido.
+## Interpersonal Skills (Soft Skills)
+* ​Assertive Communication.
+* ​Teamwork.
+* ​Proactivity and Fast Learning.
 
-## Competências Técnicas (Hard Skills)
-* **Desenvolvimento Web:** HTML5, CSS3, JavaScript, Bootstrap (Framework).
-* **Design e Multimídia:** DaVinci Resolve, CapCut, Canva.
-* **Hardware e Robótica:** Arduino, Soldagem de componentes, Sensores (LDR) e Atuadores (LEDs).
-* **Conceitos Técnicos:** Interface do Usuário (UI), Responsividade e Lógica de Programação.
+
+## ​Technical Skills (Hard Skills)
+* **Web Development**: HTML5, CSS3, JavaScript, Bootstrap (Framework).
+* **Basic concepts** in CyberSecurity 
+* **Design & Multimedia**: DaVinci Resolve, CapCut, Canva.
+* **Hardware & Robotics**: Arduino, Component Soldering, Sensors (LDR), and Actuators (LEDs).
+​* **Technical Concepts**: User Interface (UI), Responsiveness, and Programming Logic.
+
 
 ## Idiomas
-* **Inglês:** Nível Avançado (C2) – Possuo Certificação Internacional de Conclusão.
+* **​Portuguese**: Native.
+* **English**: Advanced Level (C2).
 
-## Projetos Acadêmicos e Experiência Técnica
 
-### Projeto O-Negativo (Colégio Seta)
-* **Objetivo:** Divulgar a conscientização sobre a doação de sangue e reforçar a colaboração social.
-* **Minha Atuação:** Atuei em uma equipe multidisciplinar onde **desenvolvi** toda a interface gráfica (Front-end) do projeto.
-* **Tecnologias:** Utilizei HTML5, CSS Responsivo, Bootstrap e JavaScript.
-* **Resultados:** **Implementei** recursos de geolocalização para busca de hemocentros, criei o sistema de histórico de doação e **garanti** uma interface totalmente adaptável (mobile-first).
+## ​Academic Projects and Technical Experience
+### ​O-Negativo Project (Colégio Seta) 
+* **Objective**: Promote awareness about blood donation and strengthen social collaboration.
+* **Role**: Worked in a multidisciplinary team, developing the entire graphical interface (Front-end) of the project.
+* **Technologies**: HTML5, Responsive CSS, Bootstrap, and JavaScript.
+* **Results**: Implemented geolocation features for blood center searches, created a donation history system, and ensured a fully mobile-first responsive interface.
 
-### Feira Cultural - Site E-commerce (Colégio Seta)
-* **Objetivo:** Consolidar meus conhecimentos em desenvolvimento Web e design responsivo.
-* **Minha Atuação:** **Executei** o desenvolvimento integral de um portal de artigos esportivos focado em futebol.
-* **Tecnologias:** Apliquei HTML, CSS, JavaScript e Bootstrap.
-* **Resultados:** **Criei** uma galeria dinâmica de produtos, **desenvolvi** uma curadoria histórica de times e **elaborei** o formulário de cadastro de usuários.
+### School Cultural Event – E-commerce Site (Colégio Seta) 
+* **Objective**: Consolidate knowledge in Web development and responsive design.
+* **Role**: Performed the full development of a sports goods portal focused on soccer.
+* **Technologies**: HTML, CSS, JavaScript, and Bootstrap.
+* **Results**: Created a dynamic product gallery, developed a historical curation of teams, and designed the user registration form.
 
-### Feira Cultural - Protótipo de Automação - Torre Eiffel (Colégio Seta)
-* **Objetivo:** Aplicar conceitos práticos de eletricidade e robótica.
-* **Habilidades:** Eletrônica, Arduino, Soldagem e Circuitos.
-* **Minha Atuação:** **Projetei** e **construí** um sistema inteligente utilizando sensor LDR.
-* **Resultados:** **Desenvolvi** a lógica que automatiza a iluminação interna da maquete, reagindo de forma autônoma à luminosidade ambiente.
+### School Cultural Event – Automation Prototype: Eiffel Tower (Colégio Seta)
+* **Objective**: Apply practical concepts of electricity and robotics.
+* **Skills**: Electronics, Arduino, Soldering, and Circuits.
+* **Role**: Designed and built an intelligent system using an LDR sensor.
+* **Results**: Developed the logic to automate the model's internal lighting, reacting autonomously to ambient light levels.
+
